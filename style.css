@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    
+}
+#f{
+    background-color: brown;
+    padding: 100px;
+}
+#s{
+    background-color: lightsalmon;
+    padding: 300px;
+    height: ;
+}
+a{
+    color:green;   
+}
+nav{
+    text-align: center;
+    background-color: lightsalmon;
+}
+p{
+    
+    font-size: 50px;
+    color: black;
+}
+#a{
+  font-size: 25px;
+  color: brown;
+}
+#b{
+    font-size: 25px;
+    color: brown;
+  }
+  #c{
+    font-size: 25px;
+    color: black;
+  }
+  #v{
+    text-align: left;
+  }
